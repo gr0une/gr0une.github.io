@@ -11,7 +11,7 @@
 
 .home-container {
   min-height: 100vh;
-  background: url(./images/IMG1.jpg);
+  background: url('./images/bg.jpg');
   background-size: cover;
 }
 
