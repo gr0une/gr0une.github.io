@@ -366,7 +366,7 @@ header.header_home {
 
         .top_header_home {
             height: 80%;
-            background: url('../images/1_index/index_background_2.jpeg');
+            background: url('.././images/1_index/index_background_2.jpeg');
             background-size: cover;
             background-position: 50% 50%;
         }
