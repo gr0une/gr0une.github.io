@@ -137,42 +137,42 @@ header.header {
                 } */
 
                 #bg_services{
-                    background: url('/images/2_services/services_background.jpeg');
+                    background: url('./images/2_services/services_background.jpeg');
                     background-size: cover;
                     background-repeat: no-repeat;
                     background-position: 50% 50%;
                     height: 60%;
                 }
                 #bg_events{
-                    background: url('/images/3_events/events_background.jpeg');
+                    background: url('./images/3_events/events_background.jpeg');
                     background-size: cover;
                     background-repeat: no-repeat;
                     background-position: 50% 50%;
                     height: 60%;
                 }
                 #bg_news{
-                    background: url('/images/4_news/news_background.jpeg');
+                    background: url('./images/4_news/news_background.jpeg');
                     background-size: cover;
                     background-repeat: no-repeat;
                     background-position: 50% 50%;
                     height: 60%;
                 }
                 #bg_publications{
-                    background: url('/images/5_publications/publications_background.jpeg');
+                    background: url('./images/5_publications/publications_background.jpeg');
                     background-size: cover;
                     background-repeat: no-repeat;
                     background-position: 50% 50%;
                     height: 60%;
                 }
                 #bg_members{
-                    background: url('/images/6_members/members_background.jpeg');
+                    background: url('./images/6_members/members_background.jpeg');
                     background-size: cover;
                     background-repeat: no-repeat;
                     background-position: 50% 50%;
                     height: 60%;
                 }
                 #bg_contact{
-                    background: url('/images/7_contact/contact_background.jpeg');
+                    background: url('./images/7_contact/contact_background.jpeg');
                     background-size: cover;
                     background-repeat: no-repeat;
                     background-position: 50% 50%;
@@ -366,7 +366,7 @@ header.header_home {
 
         .top_header_home {
             height: 80%;
-            background: url('/images/1_index/index_background_2.jpeg');
+            background: url('./images/1_index/index_background_2.jpeg');
             background-size: cover;
             background-position: 50% 50%;
         }
