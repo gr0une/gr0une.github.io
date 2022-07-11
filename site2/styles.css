@@ -11,7 +11,7 @@
 
 .home-container {
   min-height: 100vh;
-  background: url('./images/IMG1.JPG');
+  background: url('./images/IMG1.jpeg');
   background-size: cover;
 }
 
@@ -143,19 +143,19 @@
 }
 
     .product1 {
-    background: url('./images/IMG1.JPG');
+    background: url('./images/IMG1.jpeg');
     }
 
     .product2 {
-    background: url('./images/IMG2.jpg');
+    background: url('./images/IMG2.jpeg');
     }
 
     .product3 {
-    background: url('./images/IMG3.jpg');
+    background: url('./images/IMG3.jpeg');
     }
 
     .product4 {
-    background: url('./images/IMG4.jpg');
+    background: url('./images/IMG4.jpeg');
     }
 
 .product-box::before {
